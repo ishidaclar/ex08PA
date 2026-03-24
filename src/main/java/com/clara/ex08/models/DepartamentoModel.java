@@ -3,7 +3,7 @@ package com.clara.ex08.models;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name="tb_fornecedor")
+@Table(name="tb_departamento")
 
 public class DepartamentoModel {
     @Id
